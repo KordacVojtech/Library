@@ -8,10 +8,11 @@
     margin-top: 1rem;
     margin-left: 1.5rem;
     margin-right: 1rem;
+    margin-bottom: 1rem;
     border: 1px solid rgba(85, 40, 32, 0.404);
     box-shadow: 3px 3px 10px rgb(114, 63, 5);
     border-radius: 5px;
-    padding: 2rem;
+    padding: 3rem;
     font-family: 'Anton', sans-serif;
     background-color: rgba(126, 13, 13, 0.335);
     color: white;
